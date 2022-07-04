@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hi, I'm Jay 👋
+
+
 
 ![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaikumarm&count_private=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaikumarm&langs_count=6&layout=compact)
+
+### Find me on
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmunuswamy/)
+
 
 <!--
 **jaikumarm/jaikumarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
