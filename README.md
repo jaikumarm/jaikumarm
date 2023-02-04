@@ -2,8 +2,8 @@
 
 
 
-[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaikumarm&show_icons=true&theme=dark&count_private=true&hide=issues,contribs)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaikumarm&langs_count=6&layout=compact&theme=dark)]
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaikumarm&show_icons=true&theme=dark&count_private=true&hide=issues,contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaikumarm&langs_count=6&layout=compact&theme=dark)
 
 ### Find me on
 
