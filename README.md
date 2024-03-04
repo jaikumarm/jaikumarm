@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Jay 👋</h1>
 
 
-<p align="center">
+<div align="center">
 <a href="https://github.com/jaikumarm/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jaikumarm&theme=dark" />
 </a>
 <a href="https://github.com/jaikumarm/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaikumarm&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
-</p>
+</div>
 
 <!--
 **jaikumarm/jaikumarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
