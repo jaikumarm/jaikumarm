@@ -3,7 +3,7 @@
 
 <div align="center">
 <a href="https://github.com/jaikumarm">
-  <img height=200 width=420 align="center" src="https://github-readme-stats.vercel.app/api?username=jaikumarm&theme=dark&card_width=320" />
+  <img height=200 width=420 align="center" src="https://github-readme-stats.vercel.app/api?username=jaikumarm&theme=dark&card_width=320&rank_icon=github" />
 </a>
 <a href="https://github.com/jaikumarm">
   <img height=200 width=420 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaikumarm&layout=compact&langs_count=8&card_width=320&theme=dark" />
