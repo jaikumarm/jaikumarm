@@ -1,8 +1,13 @@
 <h1 align="center">Hi, I'm Jay 👋</h1>
 
-<p align="center" >
-  <img style="height: 170px; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=jaikumarm&show_icons=true&theme=dark&count_private=true" align="center" />
-  <img style="height: 170px; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaikumarm&show_icons=true&langs_count=6&layout=compact&theme=dark" align="center"/>
+
+<p align="center">
+<a href="https://github.com/jaikumarm/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jaikumarm&theme=dark" />
+</a>
+<a href="https://github.com/jaikumarm/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaikumarm&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
 </p>
 
 <!--
