@@ -8,6 +8,11 @@
 <a href="https://github.com/jaikumarm">
   <img height=200 width=420 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=jaikumarm&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
+<a href="https://github.com/jaikumarm">
+
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=jaikumarm&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
+</a>
+
 </div>
 
 <!--
